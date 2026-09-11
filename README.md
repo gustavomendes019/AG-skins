@@ -1,1 +1,1 @@
-# AG-skins
+# skins2b
